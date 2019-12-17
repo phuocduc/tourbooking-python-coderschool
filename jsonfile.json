@@ -1,0 +1,30 @@
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade87"},"name":"Hạ Long","codeTourImg":"Tour_2","prices":15000000,"durationDay":3}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade88"},"name":"Bán Đảo Sơn Trà","codeTourImg":"Tour_4","prices":3000000,"durationDay":2}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade89"},"name":"Phố Cổ Hội An","codeTourImg":"Tour_5","prices":13000000,"durationDay":4}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade8a"},"name":"Yên Bái","codeTourImg":"Tour_6","prices":2000000,"durationDay":1}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade8b"},"name":"Đà Lạt","codeTourImg":"Tour_7","prices":12000000,"durationDay":5}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade8c"},"name":"Nam Định","codeTourImg":"Tour_8","prices":18000000,"durationDay":6}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade8d"},"name":"Bà Nà","codeTourImg":"Tour_9","prices":3000000,"durationDay":2}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade8e"},"name":"Đà Nẵng","codeTourImg":"Tour_1","prices":5000000,"durationDay":5}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade8f"},"name":"Quảng Ngãi","codeTourImg":"Tour_12","prices":16000000,"durationDay":7}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade90"},"name":"Làng Họa","codeTourImg":"Tour_11","prices":7000000,"durationDay":6}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade91"},"name":"Sapa","codeTourImg":"Tour_13","prices":28000000,"durationDay":5}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade92"},"name":"Hà Giang","codeTourImg":"Tour_14","prices":6000000,"durationDay":3}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade93"},"name":"Lạng Sơn","codeTourImg":"Tour_15","prices":7000000,"durationDay":4}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade94"},"name":"Đồng Tháp","codeTourImg":"Tour_16","prices":2000000,"durationDay":5}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade95"},"name":"Nha Trang","codeTourImg":"Tour_10","prices":25000000,"durationDay":9}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade96"},"name":"Phú Quốc","codeTourImg":"Tour_19","prices":12000000,"durationDay":4}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade97"},"name":"Quảng Ninh","codeTourImg":"Tour_3","prices":5000000,"durationDay":7}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade98"},"name":"Sơn Đoòng","codeTourImg":"Tour_18","prices":90000000,"durationDay":20}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade99"},"name":"Bắc Ninh","codeTourImg":"Tour_20","prices":15000000,"durationDay":8}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade9a"},"name":"Nam Du","codeTourImg":"Tour_17","prices":4000000,"durationDay":8}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade9b"},"name":"Tràng An","codeTourImg":"Tour_21","prices":18000000,"durationDay":10}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade9c"},"name":"Phú Yên","codeTourImg":"Tour_22","prices":16000000,"durationDay":2}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade9d"},"name":"Điện Biên","codeTourImg":"Tour_24","prices":20000000,"durationDay":3}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade9e"},"name":"Thái Nguyên","codeTourImg":"Tour_23","prices":10000000,"durationDay":8}
+{"_id":{"$oid":"5d6cdddbfda67a0a41bade9f"},"name":"Tây Bắc","codeTourImg":"Tour_26","prices":9000000,"durationDay":7}
+{"_id":{"$oid":"5d6cdddbfda67a0a41badea0"},"name":"Hồ Ba Bể","codeTourImg":"Tour_25","prices":4000000,"durationDay":2}
+{"_id":{"$oid":"5d6cdddbfda67a0a41badea1"},"name":"Cà Mau","codeTourImg":"Tour_29","prices":18000000,"durationDay":12}
+{"_id":{"$oid":"5d6cdddbfda67a0a41badea2"},"name":"Suối Mơ","codeTourImg":"Tour_30","prices":2000000,"durationDay":4}
+{"_id":{"$oid":"5d6cdddbfda67a0a41badea3"},"name":"Động Phong Nha - Kẽ Bàng","codeTourImg":"Tour_27","prices":7000000,"durationDay":5}
+{"_id":{"$oid":"5d6cdddbfda67a0a41badea4"},"name":"Đà lạt","codeTourImg":"Tour_28","prices":5000000,"durationDay":9}
